@@ -1,0 +1,23 @@
+name: editable_markdown
+description: A new Flutter package project.
+version: 0.0.1
+homepage: null
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  freezed_annotation: ^0.14.3
+  markdown: ^4.0.0
+
+dev_dependencies:
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+  freezed: ^0.14.5
+  build_runner: ^2.1.1
+
+flutter: null
